@@ -4,6 +4,8 @@ nishant@last9.io
 
 ## Blogs
 
+[Software Observability from the lens of Radar and a Black Box](https://last9.io/blog/radar-and-black-boxes-for-software-observability/)
+
 [High Cardinality](https://last9.io/blog/what-is-high-cardinality/)
 
 [Introducing Levitate: ‘uplifting’ your metrics woes because self-management sucks like gravity](https://last9.io/blog/introducing-levitate/)
